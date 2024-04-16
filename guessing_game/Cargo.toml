@@ -1,5 +1,5 @@
 [package]
-name = "HelloWorld"
+name = "guessing_game"
 version = "0.1.0"
 authors = ["ctappan"]
 edition = "2018"
